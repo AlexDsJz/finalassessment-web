@@ -1,0 +1,9 @@
+{
+  "extend": {
+    "actions": []
+  },
+  "last_build_version": "0.5.5",
+  "platform": "reactjs",
+  "project_description": "Frontend for the minimum sum of a triangle",
+  "project_name": "Frontend Final Assessment"
+}
