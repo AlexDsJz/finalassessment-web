@@ -26,8 +26,9 @@ function ProcessFormPost({ onCompleted = () => null, onError = () => null }) {
   };
 
   return <View 
-        users={users} error={error}     
-        onSubmit={onSubmit} />;
+          users={users} error={error}     
+          onSubmit={onSubmit} 
+        />;
 }
 
 ProcessFormPost.propTypes = {
